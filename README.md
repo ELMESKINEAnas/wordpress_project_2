@@ -2,7 +2,7 @@
 
 ## Template i used to make this website
 
-[template](https://websitedemos.net/custom-printing-02/)
+- [template](https://websitedemos.net/custom-printing-02/)
 
 
 ## Website captions
